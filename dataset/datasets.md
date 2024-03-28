@@ -6,3 +6,5 @@ lego,food,news.xlsx contains information about lego creator Sam Builds, food cre
 Indian_Beauty_Influencers.xlsx contains data about Mrunal Panchal , Kritika Khurana 
 # 4
 FCC_Sharan_Ishan.xlsx contains data about educational YouTube channels FreeCodeCamp, finance with Sharan, and Ishan Sharma.
+# 5
+omaryt.xlsx contains data about the educational YouTube channel Omar agamyy.
