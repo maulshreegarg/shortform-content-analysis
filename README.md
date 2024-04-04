@@ -17,6 +17,16 @@ On comparing instagram vs youtube views by time we see that theres a spike on di
 Maximum number of videos uploaded by this creator are 21 seconds long, which is a pretty short duration reflecting the decrement of attention span of the audience. Instagram has more number of comments for the same video as compared to youtube despite there being a significant difference between views on both platforms.
 In general instagram is more random with its virality while youtube is more consistent across the board for this creator and the performance is better on youtube.
 
+## Sam Builds
+![image](https://github.com/maulshreegarg/shortform-content-analysis/assets/98210535/25f297d6-0e85-42ca-862b-d5802661b398)
+On analysing the comments on both platforms youtube comments seem to show more growth spurts as well as increment, instagram reel comments generally seem to be the same across the board. Only a very small percentage of people viewing seem to engage further with the content with only a small sub group liking the video and an even smaller subgroup commenting. High number of 1 minute videos this creator seems to focus more on longer short form content. Both instagram and youtube show view spikes as well as like spikes around the same time in Feb and it maybe due to the same video. Instagram seems to work better for this creator on occasion.
+
+## woke karen
+![image](https://github.com/maulshreegarg/shortform-content-analysis/assets/98210535/6dfab2eb-e357-4998-926d-55dea2e04880)
+There seems to be more likes for the same videos on instagram despite instagram views on average being lesser than youtube views.The average duration seems to be on the longer side with values between 1 minute to 56 seconds again. Youtube seems to generste more comments but there is a noticible spike of comments in both platforms over similar types of videos. Not all the videos are uploaded to instagram leading to the assumption that youtube is this creators primary platoform, but instagram has a more even distribution of likes and comments vs videos.
+
+## nick digiovanni
+
 ## Methodology of the project
 Steps that are being followed:
 1. Scraping short-form content data from YouTube (shorts) and Instagram (reels) for the content creators who post the same content on both platforms for analyzing the performance of their videos.
