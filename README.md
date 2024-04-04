@@ -26,7 +26,11 @@ On analysing the comments on both platforms youtube comments seem to show more g
 There seems to be more likes for the same videos on instagram despite instagram views on average being lesser than youtube views.The average duration seems to be on the longer side with values between 1 minute to 56 seconds again. Youtube seems to generste more comments but there is a noticible spike of comments in both platforms over similar types of videos. Not all the videos are uploaded to instagram leading to the assumption that youtube is this creators primary platoform, but instagram has a more even distribution of likes and comments vs videos.
 
 ## nick digiovanni
-
+![image](https://github.com/maulshreegarg/shortform-content-analysis/assets/98210535/3ff7a1c8-9f5e-455e-b442-68290dc628f1)
+youtube seems to be generating the higher number of views and hence revenue for the same creator while instagram seems to get trend based spikes where one video does very well and then there is a noticible drop after. The audience isnt being converted into loyal audience as much on instagram and the algorithm doesnt seem to fairly recommend the creator to their audience. Lower durations of content as well as higher duration does better on instagram but only the longer videos work that well on youtube and the distribution is a lot more uneven.Instagram views do not equate to more engagement though with a very minor chunk of the audience interacting with the videos.
+## doobydopap
+![image](https://github.com/maulshreegarg/shortform-content-analysis/assets/98210535/6c92d328-e103-4a7a-bcb2-f95090abf451)
+instagram in general seems to work better for this creator. The views are more on instagram as well as more consistent.Longer videos seem to be doing the best for this creator . 
 ## Methodology of the project
 Steps that are being followed:
 1. Scraping short-form content data from YouTube (shorts) and Instagram (reels) for the content creators who post the same content on both platforms for analyzing the performance of their videos.
