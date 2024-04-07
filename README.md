@@ -45,3 +45,10 @@ The above given reports are just a few examples of the many influecers that we a
 3. Instagram is found to be more trend-based according to the view count. There is a spike in number of views in the videos that tend to follow a specific ongoing trend on Instagram.
 4. Instagram engagement proves to be more than YouTube in terms of likes and comments. 
 5. We also observed that engagement in both the platforms increases during festive seasons pertaining to the region from where the channel is based on.
+
+# dash board
+![image](https://github.com/maulshreegarg/shortform-content-analysis/assets/98210535/c7f7df08-7d83-4d58-a2b8-7201e1dfac46)
+![image](https://github.com/maulshreegarg/shortform-content-analysis/assets/98210535/b7d57c88-fc83-497c-9feb-3be11c5471d6)
+![image](https://github.com/maulshreegarg/shortform-content-analysis/assets/98210535/a5ac579a-6dfa-4d89-bd9b-26cc46195607)
+
+
