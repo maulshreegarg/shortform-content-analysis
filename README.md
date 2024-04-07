@@ -36,3 +36,12 @@ Steps that are being followed:
 1. Scraping short-form content data from YouTube (shorts) and Instagram (reels) for the content creators who post the same content on both platforms for analyzing the performance of their videos.
 2. Cleaning the scraped data by removing irrelevant columns as well as null values and changing the data types.
 3. Data visualisation on PowerBI to see the trends in the data for each individual creators.
+
+
+## Key Findings from the project-
+The above given reports are just a few examples of the many influecers that we analyzed. Some common trends were observed on both these platforms which are listed below:
+⭐ YouTube does better with long term audience building as there is a consistency in the views.
+⭐ Creators tend to post more personal and casual content along with their niche on YouTube which might help them to make better connection with their audience as compared to Instagram.
+⭐ Instagram is found to be more trend-based according to the view count. There is a spike in number of views in the videos that tend to follow a specific ongoing trend on Instagram.
+⭐ Instagram engagement proves to be more than YouTube in terms of likes and comments. 
+⭐ We also observed that engagement in both the platforms increases during festive seasons pertaining to the region from where the channel is based on.
